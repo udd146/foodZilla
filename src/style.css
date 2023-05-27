@@ -1,0 +1,73 @@
+ 
+.logoimg{
+    width: 250px;
+    height: 100px;
+    margin-left: 20px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    /* border: 1px solid black; */
+    background-color: rgb(226, 195, 54);
+}
+.nav-bar>ul{
+    display: flex;
+    padding-top: 10px;
+    margin-right: 20px;
+    justify-content: space-between;
+    list-style-type: none;
+    
+}
+.nav-bar>ul>li{
+    padding: 5px;
+    margin: 10px;
+    font-size: larger;
+    color: rgb(255, 255, 255);
+}
+.rest_list{
+    width: 220px;
+    /* border: 2px solid black; */
+    margin: 10px;
+    word-wrap: break-word;
+}
+.rest_list>img{
+    width: 100%;
+}
+.rest_carsouls{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 100px;
+    
+}
+.footer{
+    /* border: 1px solid black; */
+     display: flex;
+     justify-content: center;
+     }
+.footer_content{
+     
+  margin: 5px;
+  display: inline;
+  font-family: cursive;
+   
+}
+.footer>a{
+    text-decoration: none;
+    color: rgb(9, 9, 237);
+    margin-top: 5px;
+}
+.search_btn{
+    width: 120px;
+    height: 20px;
+    margin-top: 20px;
+    margin-left: 5px;
+} 
+.shimmer{
+    width: 200px;
+    height: 180px;
+    margin: 10px;
+    background-color: rgb(202, 198, 198);  
+  
+} 
+ 
